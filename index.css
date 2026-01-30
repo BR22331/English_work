@@ -1,0 +1,182 @@
+
+
+
+
+
+
+
+
+
+
+
+
+body {
+
+    background-color: black;  /* Adiciona cor ao plano de fundo */
+    color: white;             /* Muda a cor das letras */
+    font-size: 14px;          /* Aumenta o tamanho das letras */
+    font-family: 'Press start 2P', monospace;   /* Muda a fonte da letra */
+    
+}
+
+/* Father at the sujeitos and exemples too */
+.Pai {
+
+    display: flex;  /* Deixa os "filhos" do div "pai" alinhados em blocos */
+    gap: 15px;      /* Adiciona espaço entre esses blocos */
+
+}
+
+.PaiV2 {
+
+    height: auto;
+    border-radius: 
+    5px 5px 5px 5px;
+    background-color: rgba(110, 110, 110, 0.2);
+    box-shadow: violet 
+    0px 0px 5px 1px;
+
+}
+
+
+.Palavra {
+
+    background-color: black;
+    border-radius: 5px 5px 0px 0px;
+
+    .texto {
+
+        color: white;
+        margin-left: 22%;
+
+    }
+}
+
+
+/* Config at the "sujeitos" */
+.One {
+
+    margin-left: 2px;   /* Empurra o div para a esqueda */
+    padding-left: 15px; /* Empurra o conteudo de dentro para a esqurda */
+    width: 50%;       /* Aumenta o tamanho horizontalmente */
+    height: auto;      /* Aumenta o tamanho verticalmente */
+    box-shadow: crimson
+    0px 0px 5px 1px;    /* Adiciona sombra de fundo 4 parâmetros */
+    border-radius: 5px 5px 5px 5px;
+}
+
+.Two {
+
+    padding-left: 15px;
+    width: 60%;
+    height: auto;
+    box-shadow: crimson
+    0px 0px 5px 1px;
+    border-radius: 5px 5px 5px 5px;
+
+}
+
+
+
+
+
+
+/* Tempo verbais */
+.Three {
+
+    margin-left: 2px;
+    padding-left: 15px;
+    width: auto;
+    height: auto;
+    box-shadow: crimson
+    0px 0px 5px 1px;
+    border-radius: 5px 5px 5px 5px;
+
+}
+
+.Four {
+
+    padding-left: 15px;
+    width: auto;
+    height: auto;
+    box-shadow: crimson
+    0px 0px 5px 1px;
+    border-radius: 5px 5px 5px 5px;
+
+}
+
+
+
+/* Tempo verbal passado simples */
+.Five {
+
+    margin-left: 2px;
+    padding-left: 15px;
+    width: auto;
+    height: auto;
+    box-shadow: crimson
+    0px 0px 5px 1px;
+    border-radius: 5px 5px 5px 5px;
+
+}
+
+.Six {
+
+    padding-left: 15px;
+    width: auto;
+    height: auto;
+    box-shadow: crimson
+    0px 0px 5px 1px;
+    border-radius: 5px 5px 5px 5px;
+
+}
+
+
+/* BLOCO 1 */
+.Seven {
+
+    padding-left: 15px;
+
+}
+
+/* BLOCO 2 */
+.Eight {
+
+    padding-left: 15px;
+
+}
+
+.Nine {
+
+    padding-left: 15px;
+
+}
+
+.Ten {
+
+    padding-left: 15px;
+
+}
+
+.Eleven {
+
+    padding-left: 15px;
+
+}
+
+.Twelve {
+
+    padding-left: 15px;
+
+}
+
+
+/* Descrição */
+.descricao {
+
+    background-color: rgb(23, 23, 23);
+    box-shadow: whitesmoke 0px 0px 1px 1px;
+    padding-left: 10px;
+    padding-top: 1px;
+
+}
